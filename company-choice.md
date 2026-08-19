@@ -12,3 +12,23 @@ El reto de dar el salto: La frase "Ya no es suficiente" resume justo por qué es
 
 ## Enlace al Briefing de la empresa HealthCore
 https://github.com/4GeeksAcademy/ai-engineering-syllabus/blob/main/content/contexts/00-general-contexts/CONTEXT-healthcore-briefing.es.md
+
+## Departamentos Interesantes
+De los departamentos mencionados, los que más interesantes me parecen son:
+
+🔒 Cumplimiento y Gobierno del Dato
+El cumplimiento normativo es fundamental en el sector sanitario, especialmente bajo regulaciones como HIPAA y UK GDPR. Este departamento necesita un dashboard centralizado y herramientas automatizadas para gestionar las solicitudes de datos, lo que es esencial para garantizar la protección de la información del paciente y evitar posibles infracciones.
+
+📊 Dirección Ejecutiva
+La dirección ejecutiva es clave para la toma de decisiones estratégicas. La falta de un dashboard unificado que proporcione KPIs en tiempo real limita la capacidad de la Dra. Okonkwo para responder a preguntas operacionales críticas. Mejorar la visibilidad de los datos es fundamental para gestionar eficazmente la red sanitaria y optimizar el rendimiento de la empresa.
+
+💻 Tecnología
+El departamento de tecnología es vital para la infraestructura de HealthCore. Con un patrimonio tecnológico fragmentado y sin una capa de datos compartida, la necesidad de una API central que unifique datos de pacientes, citas y facturación es crítica.
+
+Estos departamentos son cruciales para el éxito y la sostenibilidad de HealthCore, y abordar sus problemas puede tener un impacto significativo en la calidad de la atención y la eficiencia operativa.
+
+## Reto personal: 
+
+Herramienta que, 
+1) a partir de datos de proyecto (especificaciones, resultados analíticos de verificación/validación), genera borradores estructurados de secciones del expediente técnico, manteniendo trazabilidad y coherencia entre documentos.
+2) compara la documentación existente contra los requisitos normativos vigentes y señala huecos o desactualizaciones — como una auditoría interna asistida.
