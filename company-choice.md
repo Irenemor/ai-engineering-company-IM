@@ -27,7 +27,7 @@ El departamento de tecnología es vital para la infraestructura de HealthCore. C
 
 Estos departamentos son cruciales para el éxito y la sostenibilidad de HealthCore, y abordar sus problemas puede tener un impacto significativo en la calidad de la atención y la eficiencia operativa.
 
-## Reto personal: 
+## Mi idea de Agente de IA: 
 
 Herramienta que, 
 1) a partir de datos de proyecto (especificaciones, resultados analíticos de verificación/validación), genera borradores estructurados de secciones del expediente técnico, manteniendo trazabilidad y coherencia entre documentos.
